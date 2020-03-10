@@ -1,6 +1,6 @@
 # Building-facebook
 
-> This project is an attempt to copy the Facebook app, with basic features such as posts, comments, likes, and friends.
+> This project is an attempt to clone the Facebook app, with the basic features such as posts, comments, likes, and friends.
 
 ![Screenshot from 2019-11-28 12-31-35](https://user-images.githubusercontent.com/11781597/69827738-479b6680-11de-11ea-9659-7255c486f78f.png)![Screenshot from 2019-11-28 12-34-26](https://user-images.githubusercontent.com/11781597/69827789-8f21f280-11de-11ea-9bc7-d2745d3e8056.png)
 
@@ -32,6 +32,12 @@
  - gravtastic,
  - jquery,
  - jquery-rails.
+ 
+## Future Features:
+
+- Delete and edit porsts or comments.
+- The user is able to upload a profile photo and images.
+- Live chat.
 
 ## Authors
 
@@ -39,12 +45,12 @@
 
 - Github: [@Juakata](https://github.com/Juakata)
 - Twitter: [@HUzquiano](https://twitter.com/HUzquiano)
-- Linkedin: [linkedin](https://www.linkedin.com/in/andoni-uzquiano-31304818a/)
+- Linkedin: [@Andoni](https://www.linkedin.com/in/andoni-uzquiano-31304818a/)
 
 👤 **Benjamin Garza**
 
 - Github: [@BenjaminGarza](https://github.com/BenjaminGarza)
-- Linkedin: [linkedin](https://www.linkedin.com/in/benjamin-garza/)
+- Linkedin: [@Benjamin](https://www.linkedin.com/in/benjamin-garza/)
 
 ## 🤝 Contributing
 
@@ -57,4 +63,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MiT](https://opensource.org/licenses/MIT) licensed.
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.

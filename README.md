@@ -1,6 +1,6 @@
 # Building-facebook
 
-> This project is an attempt to clone the Facebook app, with the basic features such as posts, comments, likes, and friends.
+> This project is an attempt to clone the Facebook app, with the basic features such as posts, comments, likes, and friends. The website allows you to connect with other people, by sending friend requests and communicating with posts and comments. Built with Ruby on Rails.
 
 ![Screenshot from 2019-11-28 12-31-35](https://user-images.githubusercontent.com/11781597/69827738-479b6680-11de-11ea-9659-7255c486f78f.png)![Screenshot from 2019-11-28 12-34-26](https://user-images.githubusercontent.com/11781597/69827789-8f21f280-11de-11ea-9bc7-d2745d3e8056.png)
 

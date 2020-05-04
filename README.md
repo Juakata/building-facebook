@@ -35,8 +35,8 @@
  
 ## Future Features:
 
-- Delete and edit porsts or comments.
-- The user is able to upload a profile photo and images.
+- Delete and edit posts or comments.
+- Upload profile photos and images.
 - Live chat.
 
 ## Authors
